@@ -3,6 +3,6 @@ Auto GM on Discord
 2. cd Auto-GM-Discord
 3. npm install node-fetch readline-sync fs chalk cfonts
 4. Fill your token list on here : nano token.txt
-5. Run command:node index.js
+5. Run command: node index.js
 
 
